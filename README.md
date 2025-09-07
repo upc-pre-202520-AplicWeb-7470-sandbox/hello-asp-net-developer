@@ -2,7 +2,8 @@
 
 ## Summary
 
-An ASP.NET Core application using Minimal APIs to greet developers.
+A RESTful API that provides greetings based on a developer's first and last names.
+It is based on a Web API template used for creating a RESTful Web API using ASP.NET Controllers or minimal APIs.
 
 ## Features
 
